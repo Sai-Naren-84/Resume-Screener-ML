@@ -19,3 +19,58 @@ pandas data-analysis excel,data_scientist
 numpy statistics machine-learning,data_scientist
 c++ trees graphs dp,software_engineer
 c++ competitive-programming math,software_engineer
+python sql tableau powerbi,data_scientist
+python pandas matplotlib statistics,data_scientist
+python numpy scipy analytics,data_scientist
+python data-analysis visualization excel,data_scientist
+python pandas seaborn machine-learning,data_scientist
+sql python business-intelligence,data_scientist
+
+tensorflow keras cnn computer-vision,ml_engineer
+pytorch transformers nlp ai,ml_engineer
+python tensorflow pytorch gpu,ml_engineer
+deep-learning neural-networks tensorflow,ml_engineer
+computer-vision opencv tensorflow,ml_engineer
+nlp bert transformers pytorch,ml_engineer
+
+react typescript tailwind frontend,frontend_developer
+html css javascript bootstrap,frontend_developer
+react nextjs ui frontend,frontend_developer
+javascript typescript react redux,frontend_developer
+html css responsive-design frontend,frontend_developer
+react frontend animations css,frontend_developer
+
+nodejs express mongodb rest-api,backend_developer
+java spring mysql backend,backend_developer
+nodejs postgresql api backend,backend_developer
+django python backend sql,backend_developer
+spring boot microservices backend,backend_developer
+express jwt authentication backend,backend_developer
+
+react nodejs fullstack javascript,web_developer
+html css javascript web-design,web_developer
+nextjs react frontend web,web_developer
+mern stack mongodb react,web_developer
+web-development javascript html,web_developer
+responsive-web-design css javascript,web_developer
+
+docker kubernetes linux aws,devops_engineer
+aws terraform ci-cd linux,devops_engineer
+jenkins docker kubernetes,devops_engineer
+cloud aws monitoring devops,devops_engineer
+linux networking docker devops,devops_engineer
+ansible terraform cloud aws,devops_engineer
+
+android kotlin firebase mobile,android_developer
+android java xml mobile,android_developer
+kotlin jetpack-compose android,android_developer
+android studio firebase kotlin,android_developer
+mobile-development kotlin android,android_developer
+java android sqlite mobile,android_developer
+
+c++ oop system-design dsa,software_engineer
+java dsa problem-solving software,software_engineer
+c++ algorithms debugging software,software_engineer
+java oop backend software,software_engineer
+software-development c++ git dsa,software_engineer
+object-oriented-programming c++ design-patterns,software_engineer
